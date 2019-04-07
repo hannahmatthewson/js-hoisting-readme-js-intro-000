@@ -5,9 +5,8 @@ function callMe() {
   console.log("so call me");
   var lyric = "maybe";
   return lyric;
-
 }
-
+callMe();
 
 function crazy() {
   var thisIsCrazy = function (){
